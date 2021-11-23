@@ -9,7 +9,7 @@ These is the demo project used to explaining Material UI topics like
 
 <p align="center">
 <img
-	src="public/emp.PNG"
+	src="https://github.com/Michaelndula/Material-UI-Form-Design-and-Validation-master/raw/main/Material-UI-Form-Design-and-Validation-master/public/emp.PNG"
 	alt="fixmycode">
 </p>
 
